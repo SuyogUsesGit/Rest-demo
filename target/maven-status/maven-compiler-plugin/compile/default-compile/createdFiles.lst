@@ -1,0 +1,5 @@
+com\suyoggaikwad\dao\EmployeeDao.class
+com\suyoggaikwad\model\Employee.class
+com\suyoggaikwad\resource\EmployeeResource.class
+com\suyoggaikwad\resource\MyResource.class
+com\suyoggaikwad\service\EmployeeService.class
